@@ -1,4 +1,3 @@
 # shiny-sniffle
-Testing for google/go-github.
+Testing for go-git/go-git.
 
-Step 1: Make repository and add README from github web client.
